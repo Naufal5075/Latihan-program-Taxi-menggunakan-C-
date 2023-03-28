@@ -1,0 +1,5 @@
+D:\Documents\Tugas Kampus\Semester 2\Pemrograman\Taxi\Taxi\bin\Debug\Taxi.exe.config
+D:\Documents\Tugas Kampus\Semester 2\Pemrograman\Taxi\Taxi\bin\Debug\Taxi.exe
+D:\Documents\Tugas Kampus\Semester 2\Pemrograman\Taxi\Taxi\bin\Debug\Taxi.pdb
+D:\Documents\Tugas Kampus\Semester 2\Pemrograman\Taxi\Taxi\obj\Debug\Taxi.exe
+D:\Documents\Tugas Kampus\Semester 2\Pemrograman\Taxi\Taxi\obj\Debug\Taxi.pdb
